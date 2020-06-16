@@ -9,5 +9,6 @@ package com.qfedu;
 public class Dome {
     public static void main(String[] args) {
         System.out.println("w");
+        System.out.println("aa");
     }
 }
