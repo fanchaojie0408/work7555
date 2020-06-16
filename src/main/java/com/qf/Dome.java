@@ -8,6 +8,7 @@ package com.qf;
  */
 public class Dome {
     private String name;
+    private String work;
     private String id;
     private String password;
 }
